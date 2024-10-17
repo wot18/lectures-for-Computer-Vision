@@ -15,7 +15,6 @@ Specifically:
 
 In summary, Fig.1 aims to illustrate how modern technology can simulate the way human eyes observe the world to perform automatic image analysis and understanding tasks.
 
-
 <center> <image src='.//figures//fig1-1.jpg' ></center>
 
 <center>Fig1 A simple diagram of computer vision</center>
@@ -24,16 +23,13 @@ In summary, Fig.1 aims to illustrate how modern technology can simulate the way 
 
 <center> <image src='.\\figures\\fig1-2.jpg' ></center>
 
- <center>Fig. 2 Related areas with computer vision</center>
+<center>Fig. 2 Related areas with computer vision</center>
 
 The relationship between image processing, computer vision and computer graphics is demenstrated in Fig. 3.
 
 <center> <image src='.\\figures\\fig1-3.jpg' ></center>
 
- <center>Fig. 3 The relationship between image processing, computer vision and computer graphics</center>
-
-
-
+<center>Fig. 3 The relationship between image processing, computer vision and computer graphics</center>
 
 ### **The Differences between Machine Vision and Computer Vision.**
 
@@ -45,20 +41,19 @@ The relationship between image processing, computer vision and computer graphics
 
 Due to the ability of machine vision systems to rapidly acquire large amounts of information, which is easy to process automatically and integrate with design information as well as processing control information, they are widely used in modern automated production processes for condition monitoring, finished product inspection, and quality control.
 
-
 * Computer Vision is an interdisciplinary field that combines techniques from image processing, pattern recognition, and artificial intelligence, focusing on the computer analysis of one or more images. Specifically, computer vision provides the theoretical foundations and algorithms for image and scene analysis that underpin machine vision, while machine vision offers sensor models, system architecture, and implementation methods for the realization of computer vision.
 
 The purpose of studying computer vision is to bring "light" to computers based on human visual characteristics, enabling them to work in place of humans or accomplish tasks beyond human capability, thereby significantly enhancing productivity and continuously improving the quality of life.
 
 <center> Table 1 Comparison of machine vision and computer vision</center>
 
-| Aspects | Machine Vision | Computer Vision |
-|-------|-------------------|-----------------|
-| Application Field | Smart Manufacturing | Future Consumer, Service, and Other Intelligent Living Fields                 |  |
-| Functional Goals  | Mainly solves repetitive tasks such as positioning, measurement, and inspection that require human eyes | Endows intelligent robots with vision to achieve recognition and judgment of external position and image information |                |
-| Hardware Requirements | Higher requirements, need to select industrial cameras based on frame rate, resolution, etc., according to needs | Most do not have high requirements for cameras or cameras |                |
-| Algorithm Requirements | Often focuses on improving accuracy | More complex, emphasizes the use of mathematical logic or deep learning for object calibration and recognition |                |
-| Industry Maturity | Higher, with widespread application in measurement and inspection in industries such as semiconductors and packaging | Overall still in the initial exploration stage, with numerous emerging startups |                |
+| Aspects                | Machine Vision                                                                                                       | Computer Vision                                                                                                      |
+| ---------------------- | -------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| Application Field      | Smart Manufacturing                                                                                                  | Future Consumer, Service, and Other Intelligent Living Fields                                                        |
+| Functional Goals       | Mainly solves repetitive tasks such as positioning, measurement, and inspection that require human eyes              | Endows intelligent robots with vision to achieve recognition and judgment of external position and image information |
+| Hardware Requirements  | Higher requirements, need to select industrial cameras based on frame rate, resolution, etc., according to needs     | Most do not have high requirements for cameras or cameras                                                            |
+| Algorithm Requirements | Often focuses on improving accuracy                                                                                  | More complex, emphasizes the use of mathematical logic or deep learning for object calibration and recognition       |
+| Industry Maturity      | Higher, with widespread application in measurement and inspection in industries such as semiconductors and packaging | Overall still in the initial exploration stage, with numerous emerging startups                                      |
 
 ### **Why Computer Vision is so Hard?**
 
@@ -69,8 +64,6 @@ In computer vision, the 'semantic gap' refers to the disparity between pixel-lev
 <center> <image src='.\\figures\\fig1-4.jpg' ></center>
 
 <center>Fig. 4 The semantic gap in computer vision</center>
-
-
 
 ---
 
@@ -90,7 +83,7 @@ We must resort to physics-based and probability-based models to resolve the ambi
 <center> <image src='.\\figures\\fig1-5.jpg' > </center>
 <center> <image src='.\\figures\\fig1-5-2.jpg' ></center>
 
-<center>Fig.5 Typical human visual illusions.</center> 
+<center>Fig.5 Typical human visual illusions.</center>
 
 In the field of computer vision, we attempt to reverse the process, which means describing the world we see from one or more images, such as shapes, lighting, and color distribution. 
 
@@ -112,9 +105,9 @@ Since the breakthrough in deep learning, AI vision has entered a phase of large-
 * In the retail industry, AI vision can be used for product/action recognition, supply chain digitization, and display analysis/automatic checkout. 
 
 * In the healthcare sector, AI vision can be applied to image recognition, lesion analysis, and lesion area segmentation. 
-  
+
 * In the autonomous driving sector, AI vision provides functionality for environmental perception, vehicle positioning, and map creation. 
-  
+
 * In the broad industry and broad agriculture sectors, AI vision is used for product quality inspection, patrol safety management, live identification monitoring, product information management, and agricultural process automation.
 
 Overall, AI vision technology is gradually permeating various industries, bringing convenience and efficiency improvements to each sector.
@@ -136,15 +129,15 @@ In conclusion, AI vision has a broad development prospect in China and is likely
 The challenges of AI vision technology in different industries is the following:
 
 - Security: The "14th Five-Year Plan" calls for active promotion of comprehensive intelligentized security construction, adjusting and optimizing industrial structure, and reflects the industry's transition from point-to-point distributed construction to comprehensive and structured development, intersecting with smart city construction systems.
-  
+
 - Finance: The People's Bank of China and the China Banking and Insurance Regulatory Commission's requirements for remote account opening, financial management, and agency sales behavior double recording, as well as continued stimulation of the biometric market through face scanning; entering a new stage of unified image recognition platform construction.
-  
+
 - Medical: The industry has strict approval standards and prudence characteristics. Although COVID-19 made AI medical applications enter public awareness, signals for large-scale release of AI medical imaging demand are unclear, and traditional product entry methods and decision chains have not changed.
-  
+
 - Industry, Energy & Manufacturing: High demands for product stability and durability, strict control of investment return indicators; requires early involvement in feasibility consultation and verification to meet real needs.
 
 - Retail: Provides new technical means to help industry enterprises reduce costs, improve operational efficiency, and solve development bottlenecks; market motivation remains economic benefits; requires edge or endpoint computing power optimization.
-  
+
 - Agriculture: Current livestock farming and breeding focus on large customers, while large customers' share in planting is low; pilot projects are deployed based on investment recovery situations.
 
 ### **Research Aerea Included in Computer Vision**
@@ -159,8 +152,7 @@ In the Fig.6, the results of 3D scene reconstruction using deep learning techniq
 
 <center> <image src='.\\figures\\fig1-6.jpg' width='800'></center>
 
-<center>Fig.6 Two main research area included in computer vision.</center> 
-
+<center>Fig.6 Two main research area included in computer vision.</center>
 
 Fig.7 is to demenstrate industrial application efficacy curve of AI vision technology. Accorading to the timeline, it can be divided into five stages:
 
@@ -176,7 +168,7 @@ Fig.7 is to demenstrate industrial application efficacy curve of AI vision techn
 
 <center> <image src='.\\figures\\fig1-7.jpg' width='800' ></center>
 
-<center>Fig.7 Industrial application efficacy curve of AI vision technology.</center> 
+<center>Fig.7 Industrial application efficacy curve of AI vision technology.</center>
 
 With the emergence of Transformer, which has shone brightly in the field of Natural Language Processing (NLP), being applied to the Computer Vision (CV) domain, hybrid model architectures combining Transformers with Convolutional Neural Networks (CNNs) are gradually becoming a key focus of research for visual tasks. These hybrid models aim to reduce the complexity of model structures while enhancing scalability and training efficiency.
 
@@ -192,18 +184,17 @@ Fig.8 demenstrate the development history of computer vision.
 
 <center>Fig.8 The development history of computer vision.</center>
 
-
 The very start point of computer vision can be looked back to the 1960s, when a summer vision project is launched by the MIT Artificial Intelligence Laboratory. The project was aimed at developing a computer vision system that could recognize and track moving objects in a video. The project was led by Marvin Minsky and was one of the first attempts to apply computer vision techniques to real-world problems.
 
 <center> <image src='.\\figures\\fig1-9.jpg' width='800' ></center>
 
-<center>Fig.9 The summer vision project launched by MIT.</center> 
+<center>Fig.9 The summer vision project launched by MIT.</center>
 
 At that time, perception is thought be trivial problem compared to congnition problem. So that the method applied is quite simple, the main idea is to buld a 3D world model by accumulate varies blocks, as shown in Fig.10.
 
 <center> <image src='.\\figures\\fig1-10.jpg' width='800' ></center>
 
-<center>Fig.10 The world of building blocks .</center> 
+<center>Fig.10 The world of building blocks .</center>
 
 Pioneer in the Field: David Marr (1945-1980), known as the father of computer vision.
 
@@ -228,16 +219,16 @@ From the perspective of computer science, he integrated mathematics, psychophysi
 In Marr's computational vision theory, computer vision is divided into three levels:
 
 1. **Computational Theory**: What is the goal of the computation? What are the known or applicable constraints for the problem?
-   
+
 2. **Representation and Algorithms**: How are inputs, outputs, and intermediate information represented? What algorithms are used to compute the desired results?
-   
+
 3. **Hardware Implementation**: How are representations and algorithms mapped onto actual hardware, whether it is a biological visual system or a specialized silicon chip? Conversely, how can the constraints of the hardware be used to guide the selection of representations and algorithms? With the increasing use of graphics chips and multi-core architectures in computer vision, this question has become particularly important once again.
 
 Fig.11 is a demenstration of Marr's computational vision theory. Besides the three levels, Marr also proposed that the core problem of computer vision is to understand the structure of the visual world, which is the basis for the development of computer vision algorithms. Although Marr's theory has been criticized for its lack of empirical evidence, it has had a profound impact on the field of computer vision and has inspired many researchers to explore the underlying principles of human vision.
 
 <center> <image src='.\\figures\\fig1-11.jpg' width='800' ></center>
 
-<center>Fig.11 The process of understanding the srtucture of the visual world in Marr's theory.</center> 
+<center>Fig.11 The process of understanding the srtucture of the visual world in Marr's theory.</center>
 
 After the death of David Marr, his work was continued by his students, including his son, who became a prominent figure in the field of computer vision. From then on, the timeline of computer vision can be summarized as in Fig.12.
 
@@ -270,6 +261,7 @@ In the 1980s, much research focused on more sophisticated mathematical methods f
 * The processing of 3D range data (acquisition, merging, modeling, and recognition) continued to be a very active research area throughout the decade.
 
 A well-known theorical result is Canny edge detector, which is proposed in 1986. The following main steps is included in the algorithm:
+
 1. Gaussian smoothing
 2. Gradient computation
 3. Non-maximum suppression
@@ -278,25 +270,27 @@ A well-known theorical result is Canny edge detector, which is proposed in 1986.
 
 <center> <image src='.\\figures\\fig1-13.jpg' width='800' ></center>
 
-<center>Fig.13 The result of applying Canny edge detector.</center> 
+<center>Fig.13 The result of applying Canny edge detector.</center>
 
 In the mid-1980s, geometric vision began to emerge.
 
 <center> <image src='.\\figures\\fig1-14.jpg' width='800' ></center>
 
-<center>Fig.14 Geometric vision began to emerge.</center> 
+<center>Fig.14 Geometric vision began to emerge.</center>
 
 Another controversial theory is active vision, which is proposed in 1988. The main idea of active vision is that vision should interact with the environment. As to how to interact? Due to the lack of a thorough understanding of human visual mechanisms, a systematic theoretical framework has not been formed.
 
 Nevertherless, the point of view of active vision can summarized as follows:
 
 - Controlling movement can simplify visual problems.
-  
+
 - Vision is a process driven by specific tasks.
 
 ---
 
-<image src='.\\figures\\activeVision1.jpg' width='120' alt='' style="float: right;"><image src='.\\figures\\activeVision2.jpg' width='120' alt='' style="float: right;">
+<image src='.\\figures\\activeVision1.jpg' width='120' alt='' style="float: right;">
+
+<image src='.\\figures\\activeVision2.jpg' width='120' alt='' style="float: right;">
 
 Three individuals who are representative figures in the field of active vision.
 
@@ -329,13 +323,13 @@ In the 1990s, while many of the aforementioned topics were still under investiga
 * Significant progress was also made in dense stereo vision correspondence algorithms, with perhaps the most substantial breakthrough being the global optimization algorithms that utilized "graph cut" methods.
 
 * Regarding multi-view stereo vision algorithms, methods for generating 3D volumetric descriptions from binary contours, as well as approaches based on tracking and reconstructing smooth occluding contours, remain under investigation. 
-  
+
 * Tracking algorithms have seen numerous improvements, including contour tracking techniques that employ "active contours" such as snakes, particle filters, and level set methods, alongside brightness-based (direct) methods, which are often used for tracking faces and entire objects. 
-  
+
 * In the field of image segmentation, developments have led to energy minimization-based methods, minimum description length methods, normalized cuts, and mean shift techniques.
 
 * Statistical learning methods began to gain popularity, initially applied to principal component analysis for eigenfaces in face recognition and linear dynamic systems for curve tracking. 
-  
+
 * Interactions with computer graphics increased, particularly in the interdisciplinary field of image-based modeling and rendering.
 
 In the early 1990s, ICP was introduced by Z. Zhang in an article, named "terative Point Matching for Registration of Free-Form Curves and Surface" published in JCV in 1994. 
@@ -346,21 +340,21 @@ Another important result is the camera calibration method proposed by Zhang in 1
 
 <center> <image src='.\\figures\\fig1-15.jpg' width='800' ></center>
 
-<center>Fig.15 The camera calibration method proposed by Zhang.</center> 
+<center>Fig.15 The camera calibration method proposed by Zhang.</center>
 
 Stratified Reconstruction theory is another important theoritical result in 1990s. The representatives are:
 
 * R. Hartley, GE, USA ( currently Australia)
-  
+
 * O. Faugeras, INRIA, France
-  
+
 * M. Pollefeys, Leuven University, Belgium ( currently ETH, Zurich, Switzerland)
-  
+
 * A. Zisserman, Oxford University, UK
 
 <center> <image src='.\\figures\\fig1-16.jpg' width='800' ></center>
 
-<center>Fig.16 The representatives of stratified reconstruction theory.</center> 
+<center>Fig.16 The representatives of stratified reconstruction theory.</center>
 
 Stratified reconstruction theory is considered as the greatest theoretical achievement since 1992. The main idea is to imply 3D reconstruction in 3 steps:
 
@@ -369,10 +363,10 @@ Stratified reconstruction theory is considered as the greatest theoretical achie
 * Affine reconstruction: reconstructing the 3D structure in the affine space.
 
 * Euclidean reconstruction: reconstructing the 3D structure in the Euclidean space.
-  
+
 <center> <image src='.\\figures\\fig1-17.jpg' width='800' ></center>
 
-<center>Fig.17 The main idea of Stratified reconstruction.</center> 
+<center>Fig.17 The main idea of Stratified reconstruction.</center>
 
 Stratified reconstruction theory is supported by congnitive psychology experiments.
 
@@ -389,7 +383,6 @@ Stratified reconstruction theory is supported by congnitive psychology experimen
 <center> <image src='.\\figures\\fig1-19.jpg' width='800' ></center>
 
 <center>Fig.19 From projective reconstruction to metric reconstruction.</center>
-
 
 In the first decade of the 21st century, there was an increasing interplay between vision and graphics. 
 
@@ -408,7 +401,6 @@ A fast object detection method proposed by Viola and Jones in 2001, which employ
 <center> <image src='.\\figures\\fig1-20.jpg' width='800' ></center>
 
 <center>Fig.20 Haar-like features and cascade classifier.</center>
-
 
 Different types of feature detection methods were proposed, such as:
 
@@ -450,19 +442,17 @@ Fig.25 is a comparison chart about deep learning methods and traditional machine
 
 <center>Fig.25 Comparison of deep learning methods and traditional machine learning methods.</center>
 
-
 Some possible reasons for the success of Deep Neural Networks (DNN) in image recognition tasks:
 
 * The layered structure of DNNs may be fundamental to their success.
-  
+
 * Unsupervised learning techniques such as Restricted Boltzmann Machines (RBMs) may not be essential to the success of DNNs.
-  
+
 * The receptive field of a Convolutional Neural Network (CNN) is fixed while an RBM's receptive field is data-driven. Combining RBMs with DNNs results in DNNs with adaptive receptive fields, which could be another reason for their success.
 
 * Human visual processing is also a multi-layered network processing, which supports the idea that DNNs' success comes from their multi-layered structure and hierarchical learning algorithms.
 
 As research progresses, an increasing number of tasks are beginning to rely on deep learning techniques, due to their ability to automatically learn complex feature representations, thereby improving performance. These tasks are interconnected and influence each other, collectively forming the foundation of modern computer vision.
-
 
 <center> <image src='.\\figures\\fig1-26.jpg' width='800' ></center>
 
@@ -497,11 +487,13 @@ A typical engineering approach in visual research involves the following steps:
 To ensure the effectiveness of this process, it is crucial to have practical and feasible data: **This includes both synthetic data, which can be used to verify correctness and analyze noise sensitivity, and real-world data of the type that the system will ultimately work with.**
 
 Three major conferences:
+
 * International Conference on Computer Vision (ICCV) (every two years)
 * European Conference on Computer Vision (ECCV) (every two years)
 * Conference on Computer Vision and Pattern Recognition (CVPR) (annually)
 
 Two major publications:
+
 * IEEE Trans PAMI
 * International Journal of Computer Vision
 
